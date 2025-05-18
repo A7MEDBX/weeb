@@ -1,0 +1,22 @@
+{
+  "name": "hospital-appointment-system",
+  "version": "1.0.0",
+  "description": "A simple hospital appointment system for patients to make appointments with doctors.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "hospital",
+    "appointment",
+    "system",
+    "patients",
+    "doctors"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
